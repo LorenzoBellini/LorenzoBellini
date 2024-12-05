@@ -1,7 +1,7 @@
 # 💫 About Me:
 Student searching for my first tech job!
 # 🖥 College
-Currently studying Systems Analysis and Development an UniCesumar and Python at DIO.me
+Currently studying Systems Analysis and Development at UniCesumar and Python at DIO.me
 # 📊 Work Experience
 Worked on several positions, administration, production line, food supplement store and more!
 
