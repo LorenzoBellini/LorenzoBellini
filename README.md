@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student and inter at Compass UOL!
+Student and intern at Compass UOL!
 # 🖥 College
 Currently studying Systems Analysis and Development at UniCesumar, Python at DIO.me and DATA & AI at Compass UOL
 # 📊 Work Experience
