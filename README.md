@@ -1,7 +1,9 @@
 # 💫 About Me:
-Really like using Python\n
-Completed an intership on Data and AI at Compass UOL\n
-Started and Internship at R&D and UI/UX at Lenovo
+Really like using Python.
+
+Completed an intership on Data and AI at Compass UOL.
+
+Started and Internship at R&D and UI/UX at Lenovo.
 # 🖥 College
 Currently studying Systems Analysis and Development at UniCesumar, Python at DIO.me and DATA & AI at Compass UOL
 # 📊 Work Experience
